@@ -4,14 +4,8 @@ body {
     background-size: auto 100%;
 }
 
-main {
-    
-    width: 80%;
-}
-
 .titulo-principal {
     font-family: 'Syne Mono', monospace;
-
 }
 
 .carrosel-img-01 {
@@ -23,4 +17,14 @@ main {
 .carrosel-img-02 {
     object-fit: cover;
     height: 500px;
+}
+
+footer {
+    background-color:rgb(0, 0, 0);
+    text-align: center;
+
+}
+
+.texto-footer {
+    color: white;
 }
