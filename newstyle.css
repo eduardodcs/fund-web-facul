@@ -1,0 +1,26 @@
+body {
+    background-image: url(images.jfif);
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+}
+
+main {
+    
+    width: 80%;
+}
+
+.titulo-principal {
+    font-family: 'Syne Mono', monospace;
+
+}
+
+.carrosel-img-01 {
+    object-fit: cover;
+    object-position: 0 0;
+    height: 500px;
+}
+
+.carrosel-img-02 {
+    object-fit: cover;
+    height: 500px;
+}
